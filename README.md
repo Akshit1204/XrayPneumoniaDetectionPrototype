@@ -43,3 +43,22 @@ XrayPneumoniaWebApp/
    - Place it inside the project root (XrayPneumoniaWebApp/)
 
    - streamlit run app.py
+
+---
+
+📊 Model Accuracy
+
+Evaluated on the test dataset:
+
+- ✅ Test Accuracy: ~82.5%
+
+- 📉 Test Loss: ~0.39
+
+---
+
+📝 Notes
+
+The .h5 file is too large for GitHub (130 MB). So i have uploaded it to my Hugging face model repository 👉 https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main.
+
+---
+
