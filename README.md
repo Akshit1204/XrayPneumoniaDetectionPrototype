@@ -2,7 +2,7 @@
 
 A simple **Streamlit** app that detects Pneumonia from Chest X-ray images using a deep learning model (`pneumonia_model.h5`).
 <img width="1793" height="1027" alt="image" src="https://github.com/user-attachments/assets/81651379-4322-437a-9a42-b727c1cf4dfc" />
-<img width="1829" height="1025" alt="image" src="https://github.com/user-attachments/assets/76e83e48-4a1f-4b3f-9121-91f00a802adb" />
+<img width="1792" height="1030" alt="image" src="https://github.com/user-attachments/assets/5b2d08a5-8b34-4cf5-9c15-f9ee9c0f7346" />
 
 ---
 
