@@ -44,9 +44,8 @@ XrayPneumoniaWebApp/
 3. Download the Dataset for further testing/improvements/re-training for better accuracy
    - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
-4. Download the model file
+4. You can also download the model file(optional)
    - 👉https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main
-   - Place it inside the project root (XrayPneumoniaWebApp/)
 
    - streamlit run app.py
 
