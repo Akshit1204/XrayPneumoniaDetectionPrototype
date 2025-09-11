@@ -31,9 +31,9 @@ XrayPneumoniaWebApp/
    cd XrayPneumoniaWebApp
 
 Create virtual environment and install dependencies:
-python -m venv venv
-venv\Scripts\activate     # On Windows
-source venv/bin/activate  # On Mac/Linux
+- python -m venv venv
+- venv\Scripts\activate     # On Windows
+- source venv/bin/activate  # On Mac/Linux
 
 pip install -r requirements.txt
 
