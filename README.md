@@ -1,4 +1,4 @@
-# 🩺 Pneumonia Detection Web App
+# 🩺 Pneumonia Detection Web App Prototype
 
 A simple **Streamlit** app that detects Pneumonia from Chest X-ray images using a deep learning model (`pneumonia_model.h5`).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f2c23bf-8f93-4efc-bdeb-15c77262605e" />
