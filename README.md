@@ -37,7 +37,7 @@ XrayPneumoniaWebApp/
 
    - pip install -r requirements.txt
 
-3. Download the Dataset(optional) for further testing/ improvements on accuracy
+3. Download the Dataset for further testing/improvements/re-training for better accuracy
    - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
 4. Download the model file
