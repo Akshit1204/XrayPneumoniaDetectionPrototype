@@ -35,8 +35,10 @@ XrayPneumoniaWebApp/
    - venv\Scripts\activate     # On Windows
    - source venv/bin/activate  # On Mac/Linux
 
-   - pip install -r requirements.txt 
+   - pip install -r requirements.txt
 
+3. Download the Dataset(optional) for further testing/ improvements on accuracy
+   - https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
 
 4. Download the model file
    - 👉https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main
