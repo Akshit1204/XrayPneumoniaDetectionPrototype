@@ -13,13 +13,13 @@ A simple **Streamlit** app that detects Pneumonia from Chest X-ray images using 
 ---
 
 ## 📂 Project Structure
-XrayPneumoniaWebApp
-- app.py # Streamlit app
-- train_model.py # (Optional) Training script used to train the model
-- evaluate_model.py # Evaluate model accuracy on test data
-- pneumonia_model.h5 # Trained model (trained on the given dataset and uploaded to https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main)
-- requirements.txt # Dependencies
-- chest_xray/ # Dataset (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)
+XrayPneumoniaWebApp/
+- │──app.py # Streamlit app
+- │──train_model.py # (Optional) Training script used to train the model
+- │──evaluate_model.py # Evaluate model accuracy on test data
+- │──pneumonia_model.h5 # Trained model (trained on the given dataset and uploaded to https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main)
+- │──requirements.txt # Dependencies
+- │──chest_xray/ # Dataset (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data)
 
 ---
 
