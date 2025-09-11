@@ -64,7 +64,7 @@ Evaluated on the test dataset:
 
 📝 Notes
 
-The .h5 file is too large for GitHub (130 MB). So i have uploaded it to my Hugging face model repository 👉 https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main.
+The pneumonia_model.h5 file is too large for GitHub (130 MB). So i have uploaded it to my Hugging face model repository 👉 https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main.
 
 ---
 
