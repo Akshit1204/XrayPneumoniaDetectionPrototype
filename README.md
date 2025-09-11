@@ -30,15 +30,16 @@ XrayPneumoniaWebApp/
    git clone https://github.com/your-username/XrayPneumoniaWebApp.git
    cd XrayPneumoniaWebApp
 
-Create virtual environment and install dependencies:
-- python -m venv venv
-- venv\Scripts\activate     # On Windows
-- source venv/bin/activate  # On Mac/Linux
+2. Create virtual environment and install dependencies:
+   - python -m venv venv
+   - venv\Scripts\activate     # On Windows
+   - source venv/bin/activate  # On Mac/Linux
 
-pip install -r requirements.txt
+   - pip install -r requirements.txt 
 
-Download the model file
-👉https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main
-Place it inside the project root (XrayPneumoniaWebApp/)
 
-streamlit run app.py
+4. Download the model file
+   - 👉https://huggingface.co/Akshit04/Akshit04-pneumonia-model/tree/main
+   - Place it inside the project root (XrayPneumoniaWebApp/)
+
+   - streamlit run app.py
